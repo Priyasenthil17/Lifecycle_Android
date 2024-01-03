@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 
 
 
-## Program:
+## PROGRAM:
  ```
 /*
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
@@ -44,13 +44,13 @@ RegisterNumber:
 
 
 
-## activity_main.xml:
+## activitymain.xml:
 
 
 
-## Output:
+## OUTPUT:
 
 
 
-## Result:
+## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
